@@ -16,5 +16,5 @@
 module Mctat2
   APP_NAME = 'mctat2'
   EXTENSION = '.mctat2.json'
-  VERSION = "0.1.0"
+  VERSION = '2.0.0-dev'
 end
